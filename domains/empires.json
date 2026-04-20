@@ -3,7 +3,7 @@
       "username": "meh-a",
       "email": "mehownsclan@gmail.com"
     },
-    "records": {
-      "A": ["2a09:8280:1::101:137d:0"]                                                                                                                                                            
-    }
+    "records": {                                                                                                                                                                                  
+    "AAAA": ["2a09:8280:1::101:137d:0"]
+  }
   }
